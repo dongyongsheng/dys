@@ -12,7 +12,7 @@ import org.apache.activemq.ActiveMQConnection;
 import org.apache.activemq.ActiveMQConnectionFactory;
 /**
  * 消息的生产者（发送者）
- * @author liang
+ * @author dys
  *
  */
 public class JMSProducer {
