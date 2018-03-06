@@ -12,6 +12,8 @@ import java.nio.channels.FileChannel;
   * CopyFile.java 执行三个基本操作： 
   * 首先创建一个 Buffer，然后从源文件中将数据读到这个缓冲区中，然后将缓冲区写入目标文件。 
   * 程序不断重复 — 读、写、读、写 — 直到源文件结束。
+
+  *dys
  */
 public class fileCopy {
     public static void main(String[] args) throws Exception {
